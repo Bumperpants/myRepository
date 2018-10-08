@@ -1,1 +1,3 @@
 Here is some plain text in a .txt file created in github online.
+
+I just made a change to this text in the terminal.
