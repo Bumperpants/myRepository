@@ -5,3 +5,4 @@ These changes should only exist in the branch.
 This will be save in branch commit version 1.
 Saved in commit version2.
 And finally, commit version 3.
+Master file after rebase.
