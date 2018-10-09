@@ -2,3 +2,4 @@ Here is some text that I made in the terminal.
 I modified this on github.
 Change on terminal.
 Independant github commit.
+Always remember to pull before pushing!
