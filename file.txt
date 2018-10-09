@@ -1,1 +1,3 @@
 Here is some new terminal text.
+Here is some added text that will suposedly be deleted because I wont want it later.
+Ok, I screwed up because I pushed the file.
