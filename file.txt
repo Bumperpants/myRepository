@@ -1,1 +1,2 @@
 Here is some new terminal text.
+Here is some added text that will suposedly be deleted because I wont want it later.
