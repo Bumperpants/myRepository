@@ -23,4 +23,3 @@ Here is my conflict.
 
 I am making a conflicting change here.
 
-Revert out of this change.
