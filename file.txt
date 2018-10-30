@@ -20,3 +20,6 @@ Master changes for merge 3
 Now I am making some changes form gitHub online.
 
 Here is my conflict.
+
+I am making a conflicting change here.
+
