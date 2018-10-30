@@ -1,25 +1,3 @@
-I am making some updates here.
-Hooray for me!
+Wiping out the whole stupid thing because I have to re-learn it all.
 
-Master 1
-master 2
-master 3
-
-Save edit
-Save modification
-Save refactor
-
-Save Change 1
-Save Change 2
-Save Change 3
-
-Master changes for merge 1
-Master changes for merge 2
-Master changes for merge 3
-
-Now I am making some changes form gitHub online.
-
-Here is my conflict.
-
-I am making a conflicting change here.
 
