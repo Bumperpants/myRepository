@@ -1,13 +1,5 @@
 
 
 
-This is the day before Haloween!
 
-
-I am coding without pulling first. Tra lalalala.
-
-This is a conflict.
-
-Always pull before you push!
-
-Ok, I will.
+Now I am on my "B" branch
