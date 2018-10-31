@@ -1,14 +1,14 @@
 
 
 
-<<<<<<< HEAD
+
 This is my "a" branch
 
 
 
 Finally, Here is my C branch
 
-=======
+
 
 Now I am on my "B" branch
->>>>>>> b
+
